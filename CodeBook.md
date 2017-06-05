@@ -23,5 +23,6 @@ features - loaded from features.txt and contains the column names for the x_data
 activities - loaded from activity_labels.txt and contains the real names for values in the y_dataset
 
 alldata - merged data from the updated versions of x_dataset, y_dataset, and subject_dataset.
-average_data - contains the averages which will be sent to TidyDataSet.txt. (use fo the ddply() function is used and requires the plyr package to be installed and loaded).
+average_data - contains the averages which will be sent to TidyDataSet.txt. 
+(use fo the ddply() function is used and requires the plyr package to be installed and loaded).
 
